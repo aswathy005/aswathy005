@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Aswathy T 👋
 
-<!--
-**aswathy005/aswathy005** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Aspiring Full Stack Developer | MERN Stack
 
-Here are some ideas to get you started:
+I'm a Computer Science graduate passionate about building web applications and learning new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 B.Sc. Computer Science graduate
+- 💻 Interested in Full Stack Web Development
+- 🌱 Currently exploring new technologies and improving my development skills
+- 🔭 Project: Digital Kerala Mission
+- 🎯 Goal: Become a skilled Full Stack Developer
+
+### 🛠️ Technologies & Tools
+
+- Frontend: HTML, CSS, JavaScript, React.js
+- Backend: Node.js, Express.js
+- Database: MongoDB
+- Tools: Git, GitHub, VS Code, Postman
+
+### 🚀 Featured Projects
+
+- Digital Kerala Mission — Full Stack Web Application
+
+### 📫 Connect With Me
+
+- GitHub: https://github.com/aswathy005
+- Email: aswathythadathil2005@gmail.com
