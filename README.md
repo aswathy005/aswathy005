@@ -19,7 +19,7 @@ I'm a Computer Science graduate passionate about building web applications and l
 
 ### 🚀 Featured Projects
 
-- Digital Kerala Mission — Full Stack Web Application
+- Digital Kerala Mission (digitalkeralamission.com)— (Full Stack Web Application)
 
 ### 📫 Connect With Me
 
