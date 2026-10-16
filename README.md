@@ -23,7 +23,6 @@ I'm a Computer Science graduate passionate about building web applications and l
 A full-stack web application built using the MERN stack.
 
 - **Live Website:** [digitalkeralamission.com](https://digitalkeralamission.com)
-- **GitHub Repository:** [View Source Code](https://github.com/aswathy005/digital_kerala_mission)
 - **Technologies:** React.js, Node.js, Express.js, MongoDB
 
 ### 📫 Connect With Me
